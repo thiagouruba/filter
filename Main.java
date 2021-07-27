@@ -1,6 +1,8 @@
 public class Main {
 
     public static void main(String[] args){
+        
+        //just testing
         Data data = new Data();
         data.addProducts("Nike", 455.99f, 40);
         data.addProducts("Adidas", 699.99f, 39);
